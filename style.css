@@ -1,13 +1,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  color:blue;
+  background: black;
+  color:orenge;
 }
 
 header {
-  background: #6200ea;
-  color: skyblue;
+  background: black;
+  color: violet;
   padding: 1rem;
   text-align: center;
 }
@@ -17,7 +17,7 @@ nav {
 }
 
 nav a {
-  color: pink;
+  color: blue;
   margin: 0 10px;
   text-decoration: none;
 }
@@ -30,7 +30,7 @@ section {
   padding: 2rem;
   max-width: 800px;
   margin: auto;
-  background: pink;
+  background: blue;
   margin-top: 1rem;
   border-radius: 8px;
 }
@@ -47,8 +47,8 @@ ul {
 }
 
 ul li {
-  background: #bb86fc;
-  color: red;
+  background: black;
+  color: skyblue;
   padding: 0.5rem;
   margin: 0.3rem 0;
   border-radius: 4px;
@@ -57,8 +57,8 @@ ul li {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #6200ea;
-  color: sky blue;
+  background: black;
+  color: violet;
   margin-top: 2rem;
 }
 
